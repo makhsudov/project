@@ -1,0 +1,65 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Глава 1",
+      "description": "Описание первой главы",
+      "lessons": [0, 1, 2]
+    },
+    {
+      "id": 2,
+      "title": "Глава 2",
+      "lessons": [3, 4]
+    }
+  ],
+  "lessons": [
+    {
+      "fileNameAudio": "01.mp3",
+      "fileNameVideo": "01.mp4",
+      "title": "Вступление",
+      "description": "Описание 1",
+      "underVideo": "Описание первого видео",
+      "preview": "01.jpg",
+      "subtitles": ["ru", "en", "ar"]
+    },
+    {
+      "fileNameAudio": "02.mp3",
+      "fileNameVideo": "02.mp4",
+      "title": "Урок 2",
+      "description": "Описание 2",
+      "preview": "02.jpg"
+    },
+    {
+      "fileNameAudio": "03.mp3",
+      "fileNameVideo": "02.mp4",
+      "title": "Часть 2-я",
+      "description": "Описание 3",
+      "underVideo": "Описание второго видео",
+      "preview": "03.jpg"
+    },
+    {
+      "fileNameAudio": "04.mp3",
+      "fileNameVideo": "02.mp4",
+      "title": "Глава о воде",
+      "description": "Описание 4",
+      "underVideo": "Описание второго видео",
+      "preview": "04.jpg"
+    },
+    {
+      "fileNameAudio": "05.mp3",
+      "fileNameVideo": "02.mp4",
+      "title": "Часть 2-я",
+      "description": "Описание 5",
+      "underVideo": "Описание второго видео",
+      "preview": "05.jpg"
+    }
+  ],
+  "extra": [
+    {
+      "fileName": "book.pdf",
+      "title": "Оригинал книги",
+      "description": "",
+      "preview": "pdf.jpg"
+    }
+  ]
+}
